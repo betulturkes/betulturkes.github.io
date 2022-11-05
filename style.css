@@ -1,0 +1,134 @@
+body{
+	background:linear-gradient(#FACF98,#D1AE81);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+#header{
+	background: url(bean.jpg);
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 100px;
+	font-weight: lighter;
+	color: #FFDDB2;
+	text-align: center;
+	border: 5px solid;
+	border-radius: 10px;
+	margin: 100px auto;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+
+}
+
+#firstdiv{
+
+	font-size:37px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-weight: bolder;
+	font-family:'Advent Pro', sans-serif;
+	border-style: dashed;
+	border-right: 0;
+	border-left: 0;
+	padding: 5px;
+	border-color: wheat;
+}
+
+
+#opening span{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 40px;
+	font-weight: bolder;
+	font-style: italic;
+}
+
+#exp{
+	margin-top: -17px;
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+
+#title{
+	font-family:'Julius Sans One', sans-serif;
+	font-weight: lighter;
+	font-size: 80px;
+	border: 8px solid;
+	border-radius: 7px;
+	margin-top: 90px;
+	margin-left: 50px;
+	color: #684C27;
+	padding-left: 25px;
+	padding-right: 25px;
+	width: 380px;
+	font-kerning: 4px;
+
+}
+
+
+
+.names{
+	font-family: 'Six Caps', sans-serif;
+	letter-spacing: 5px;
+	font-size: 70px;
+	color: firebrick;
+	margin-left: 90px;
+	margin-right: 30px;
+	margin-top: 128px;
+	padding-right: 30px;
+	border-style:solid ; 
+	border-width: 3px; 
+	border-left: 0; 
+	border-right: 0;
+	border-bottom: 0; 
+	border-color: darkgoldenrod;
+}
+
+
+.ingredient{
+	font-size: 23px;
+	color: black;
+	font-family:"Julius Sans One", sans-serif;
+	margin-left: 110px;
+	padding-right: 30px;
+	margin-right: 30px;
+}
+
+.photos{
+	height: 231.24px;
+	width: 231.24px;
+	border-radius: 50%;
+	float: right;
+	margin: 10px,10px,10px,20px;
+	padding-right: 30px;
+	padding-bottom: 100px;
+	padding-top: -150px;
+	clear: both;
+
+}
+
+#socialmedia{
+	margin-top: 200px;
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Julius Sans One', sans-serif;
+	font-weight: lighter;
+	color: #3D7D10;
+
+}
+
+button{
+	margin-top: 30px;
+	border-radius: 10px;
+	border-color: #8C430A;
+	color: #AB4335;
+	background-color: #F1BD89;
+	font-size: 18px;
+	font-family: "Julius Sans One", sans-serif;
+
+
+}
